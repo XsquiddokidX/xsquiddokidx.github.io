@@ -1,0 +1,10 @@
+
+User-Agent: *
+Allow-Training: no
+Allow-FineTuning: no
+Allow-Indexing: yes
+Allow-Summarization: conditional
+
+User-Agent: AcademicBot
+Allow-Training: yes
+Allow-CommercialUse: no
